@@ -24,6 +24,6 @@ If you find it useful, consider donating:
 
 ---
 
-👉 Visit [**sc2arcade.com**](https://sc2arcade.com)
-💬 Join our [**Discord server**](https://discord.gg/yourserver) - to stay on track with updates
-🛠️ Submit [**bug reports and other problems**](https://github.com/sc2-arcade-watcher/issue-tracker/issues) with the website or its integrations (such as Arcade Watcher Discord bot).
+- 👉 Visit [**sc2arcade.com**](https://sc2arcade.com)
+- 💬 Join our [**Discord server**](https://discord.gg/yourserver) - to stay on track with updates
+- 🛠️ Submit [**bug reports and other problems**](https://github.com/sc2-arcade-watcher/issue-tracker/issues) with the website or its integrations (such as Arcade Watcher Discord bot).
